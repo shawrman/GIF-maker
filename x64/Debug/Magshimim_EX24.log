@@ -1,0 +1,20 @@
+﻿  files.c
+D:\project\Magshimim_EX24\linkedList.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\project\Magshimim_EX24\files.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\project\Magshimim_EX24\files.c(30,14): warning C4047: 'return': 'FrameNode *' differs in levels of indirection from 'int'
+D:\project\Magshimim_EX24\files.c(36,13): warning C4090: 'return': different 'const' qualifiers
+D:\project\Magshimim_EX24\files.c(158,13): warning C4098: 'FreeAll': 'void' function returning a value
+D:\project\Magshimim_EX24\files.c(143,13): warning C4101: 'pNode': unreferenced local variable
+  linkedList.c
+D:\project\Magshimim_EX24\LinkedList.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\project\Magshimim_EX24\linkedList.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  prog.c
+C:\Users\User\Desktop\opencv\build\include\opencv2\core\types_c.h(929,20): warning C4013: 'cvRound' undefined; assuming extern returning int
+D:\project\Magshimim_EX24\LinkedList.h(3,1): warning C4005: 'MAX': macro redefinition
+C:\Users\User\Desktop\opencv\build\include\opencv2\core\cvdef.h(329): message : see previous definition of 'MAX'
+D:\project\Magshimim_EX24\LinkedList.h(9,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\project\Magshimim_EX24\prog.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating Code...
+D:\project\Magshimim_EX24\linkedList.c(142): warning C4715: 'Remove': not all control paths return a value
+D:\project\Magshimim_EX24\linkedList.c(102): warning C4715: 'updateIndex': not all control paths return a value
+  Magshimim_EX24.vcxproj -> D:\project\Magshimim_EX24\x64\Debug\Magshimim_EX24.exe

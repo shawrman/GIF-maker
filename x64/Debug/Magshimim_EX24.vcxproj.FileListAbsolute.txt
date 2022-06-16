@@ -1,0 +1,2 @@
+D:\vs\Magshimim_EX24\x64\Debug\Magshimim_EX24.exe
+D:\project\Magshimim_EX24\x64\Debug\Magshimim_EX24.exe
